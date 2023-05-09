@@ -1,4 +1,4 @@
-# Experiments on using Langchain to do question answering.
+# Experiments on using Langchain to do question answering over custom documents.
 
 Comments :
 * Super intuitive & easy to use!
